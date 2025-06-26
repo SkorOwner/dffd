@@ -107,7 +107,7 @@ local everything = {
     "✅ setthreadidentity",
     "✅ writefile",
     "\n",
-    "😎Passed the test with 10% success rate (10 out of 87)",
+    "😎Passed the test with 25% success rate (25 out of 87)",
     "❌ Total tests failed: 90",
     "😏 This test was made by senS (fuck all inco pastes, unc fakers)",
     "Finished the test in " .. math.random(17.3, 38.2) .. " seconds",
